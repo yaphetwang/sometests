@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a85ac47f-88c8-471a-becd-c6a1ab7facd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="ProjectId" id="1WZ2TlWn9ZjAbc8jrJ0GtTvI3hU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572327557910" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\sometests\lib" />
+      <recent name="D:\projects\sometests\src\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BigDecimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.BigDecimalTest" />
+      <module name="sometests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BigDecimalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85ac47f-88c8-471a-becd-c6a1ab7facd0" name="Default Changelist" comment="" />
+      <created>1571367575822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571367575822</updated>
+      <workItem from="1571367583322" duration="1826000" />
+      <workItem from="1571905543342" duration="119000" />
+      <workItem from="1572312647778" duration="615000" />
+      <workItem from="1572313357716" duration="607000" />
+      <workItem from="1572317994547" duration="775000" />
+      <workItem from="1579342807543" duration="1138000" />
+      <workItem from="1579344091307" duration="111000" />
+      <workItem from="1579344492600" duration="1668000" />
+      <workItem from="1579442739305" duration="14000" />
+      <workItem from="1579445840554" duration="179000" />
+      <workItem from="1579446030161" duration="78000" />
+      <workItem from="1579487974452" duration="3023000" />
+      <workItem from="1579527443494" duration="72000" />
+      <workItem from="1579527663035" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="86" key="SettingsEditor" timestamp="1579527718118">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="86" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1579527718118" />
+    <state x="384" y="99" key="SettingsEditor/0.23.1792.989@0.23.1792.989" timestamp="1579489165507" />
+    <state x="573" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1579487985937">
+      <screen x="0" y="23" width="1792" height="989" />
+    </state>
+    <state x="573" y="361" key="com.intellij.ide.util.TipDialog/0.23.1792.1012@0.23.1792.1012" timestamp="1579344494783" />
+    <state x="573" y="349" key="com.intellij.ide.util.TipDialog/0.23.1792.989@0.23.1792.989" timestamp="1579487985937" />
+    <state x="573" y="351" key="com.intellij.ide.util.TipDialog/0.23.1792.994@0.23.1792.994" timestamp="1579446034497" />
+  </component>
+</project>
